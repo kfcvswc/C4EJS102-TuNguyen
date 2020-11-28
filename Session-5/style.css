@@ -1,0 +1,20 @@
+.parent .heading{
+    color:blue; font-weight: 100; font-weight: 500;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.parent .paragraph1{
+    /* color:red; */
+    color:green;
+}
+.parent .paragraph2{
+    color:red;
+}
+.parent2 .heading2{
+    color:blue;
+}
+.parent2 .paragraph1{
+    color: navy;
+}
+
+ /* Inline - ko nhan thuoc tinh width va height */
+ /* SD thuoc tinh Display - bien inline -> block, inline-block */
